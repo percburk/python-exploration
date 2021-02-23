@@ -4,5 +4,3 @@ app = Flask(__name__)
 @app.route('/')
 def hello_world():
   return 'Hello, world!'
-
-# sample change to see if git works
